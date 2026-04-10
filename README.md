@@ -1,7 +1,6 @@
 # HappyHorse-1.0 API
 
-<!-- Replace with actual horse banner image -->
-![HappyHorse-1.0](assets/banner.png)
+<img src="assets/banner.png" alt="HappyHorse-1.0" width="80">
 
 [![fal.ai](https://img.shields.io/badge/Platform-fal.ai-purple.svg)](https://fal.ai/happyhorse)
 
